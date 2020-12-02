@@ -9,6 +9,7 @@ produce/print the contents of registers and data memories after execution of eac
 There is no exception/interrupt handling for this project.
 Instructions
 The instructions supported by this simulator is shown in the manual of MIPS, which has two categories.
+
 Category-1
 * J, JR, BEQ, BLTZ, BGTZ
 * BREAK
@@ -21,4 +22,5 @@ Category-2
 * SLT
 * ADDI
 * ANDI, ORI, XORI
+
 There are small changes to the opcode to fit the instructions to the simulator, which will be specified in the project requirement.
