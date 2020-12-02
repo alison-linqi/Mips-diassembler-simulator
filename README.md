@@ -16,6 +16,7 @@ Category-1
 * SW, LW
 * SLL, SRL, SRA
 * NOP
+
 Category-2
 * ADD, SUB, MUL, AND
 * OR, XOR, NOR
